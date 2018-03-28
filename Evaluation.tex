@@ -1,0 +1,98 @@
+\documentclass[12pt]{article}
+\usepackage{a4}
+\usepackage[english]{babel}
+\setlength{\parindent}{0.35cm}
+\pagestyle{headings}
+\usepackage{graphicx}
+\usepackage{grffile}
+%Multiple picture in one figure
+%\usepackage{subfigure}
+\usepackage{subfig}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{wrapfig}
+%Floating-Umgebungen
+\usepackage{float}
+%Math-Environment
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{bbm}
+%Better SI-Units
+\usepackage{siunitx}
+%Using Appendix
+\usepackage[title]{appendix}
+%Using URL
+\usepackage[hidelinks]{hyperref}
+%Using Colored Tables
+\usepackage{colortbl}
+\newcommand{\gray}{\rowcolor[gray]{.90}}
+\usepackage{esvect}
+% Use fancy tables
+\usepackage{tabularx}
+% Build fancy tables
+\usepackage{booktabs}
+\usepackage{soul}
+% Configure enumeration
+\usepackage{enumitem}
+%Configure geometry
+\usepackage[letterpaper]{geometry}
+\geometry{
+	letterpaper,
+	left=3cm,
+	right=3cm,
+	top=3cm,
+	bottom = 3cm,
+	}
+
+\lstset{
+	language=C++,
+	basicstyle=\small\ttfamily,
+	keywordstyle=\color{blue}\ttfamily,
+	stringstyle=\color{red}\ttfamily,
+	commentstyle=\color{green}\ttfamily,
+	morecomment=[l][\color{magenta}]{\#},
+}
+
+
+\usepackage{amsthm}
+
+\renewcommand\qedsymbol{$\blacksquare$}
+\newtheorem{theorem}{Theorem}[section]
+
+\begin{document}
+\noindent
+\begin{center}
+	\centering
+	\Large{\textbf{Paper Evaluation and Summary}}
+\end{center}
+\textbf{\underline{Name}}: Lukas Nies \\
+\noindent
+\textbf{\underline{Paper}}: Pattie et al. (Measurement of neutron lifetime using magnetic trap) \\[0.5cm]
+\noindent
+\begin{itemize}
+	\item \ul{What is the main finding of this paper and why is it important?} \\
+	\noindent
+	The mean neutron lifetime was found to be $\tau_n=877.7\pm 0.7\text{(stat)+0.4-0.2\text{(syst)}}s$. The largest uncertainty is dominated by statistics and therefore can be reduced through further runs of the experiment. This makes this experiments one of the most precise modern measurements of the neutron lifetime using a material trap. It still disagrees with the beam method. 
+	\item \ul{Describe at a high level the basic technique used. Try a series of "steps" here if necessary, if there is a sequence to be followed (like a recipe).} \\
+	\noindent
+	\begin{enumerate}
+		\item Generate ultra cold neutrons, monitor the flux, and then flip the spin-state to low-field-seeking. Monitor the flux of neutrons with higher energy than the trap can handle.
+		\item Fill the trap for $150s$ with neutrons and then close all the valves.
+		\item Clean all neutrons with higher energy by using the polyethylene cleaners.
+		\item Unload trap by successively lowering the the in situ PMMA detector into the fiducial volume and do background measurements afterwards.
+		\item Complete two of those measurement cycles in a row (a short and a long run) and alter the configuration.
+	\end{enumerate}
+	\item \ul{Choose an interesting technical aspect of the experiment and describe its relation and importance to the measurement.} \\
+	\noindent
+	An interesting fact is that it was chosen to lower the PMMA detector in several steps into the fiducial volume instead of just lowering it completely in the first place. According to the paper, this helps to study the uncertainties and dependences on neutron energy and momentum.
+	\item \ul{Pick one systematic uncertainty issue that you find interesting and describe  its importance and the author's method of addressing it.}\\
+	\noindent
+	In order to avoid fluctuations in number and energy of neutrons for loading trap the author uses beam monitors to monitor abundances of neutrons with higher energy and the spectral variance of the flux of the neutron source. By alternating the run times in a cycle of measurements these effects were reduces. 
+	\item \ul{Fascinating aspect:} \\
+	\noindent
+	Interestingly the collaboration chose to blind the data from the analysts to reduce bias such that the analyses result in a constant offset of $15s$. 
+\end{itemize}
+
+
+\end{document}  
