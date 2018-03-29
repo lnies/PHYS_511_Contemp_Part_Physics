@@ -68,30 +68,33 @@
 \end{center}
 \textbf{\underline{Name}}: Lukas Nies \\
 \noindent
-\textbf{\underline{Paper}}: Pattie et al. (Measurement of neutron lifetime using magnetic trap) \\[0.5cm]
+\textbf{\underline{Paper}}: Nico et al. (Measurement of neutron lifetime using beam method) \\[0.5cm]
 \noindent
 \begin{itemize}
 	\item \ul{What is the main finding of this paper and why is it important?} \\
 	\noindent
-	The mean neutron lifetime was found to be $\tau_n=877.7\pm 0.7\text{(stat)+0.4-0.2\text{(syst)}}s$. The largest uncertainty is dominated by statistics and therefore can be reduced through further runs of the experiment. This makes this experiments one of the most precise modern measurements of the neutron lifetime using a material trap. It still disagrees with the beam method. 
+	The mean neutron lifetime was found to be $\tau_n=886.3\pm 1.2\text{(stat)}\pm 3.2\text{(sys)}s$ and therefore is the most precise measurement utilizing the beam method. It still disagrees with the magnetic trap method. 
 	\item \ul{Describe at a high level the basic technique used. Try a series of "steps" here if necessary, if there is a sequence to be followed (like a recipe).} \\
 	\noindent
 	\begin{enumerate}
-		\item Generate ultra cold neutrons, monitor the flux, and then flip the spin-state to low-field-seeking. Monitor the flux of neutrons with higher energy than the trap can handle.
-		\item Fill the trap for $150s$ with neutrons and then close all the valves.
-		\item Clean all neutrons with higher energy by using the polyethylene cleaners.
-		\item Unload trap by successively lowering the the in situ PMMA detector into the fiducial volume and do background measurements afterwards.
-		\item Complete two of those measurement cycles in a row (a short and a long run) and alter the configuration.
+		\item Generate cold neutrons, guide into the proton trap 
+		\item Start the trapping cycle:
+		\begin{itemize}
+			\item Trapping: trap protons produced by neutron decay for $10ms$.
+			\item Counting: Door gets grounded and a ramped potential "flushes" out the produced protons which are guided to the silicon detector (enabled for $21\mu s$).
+			\item Clearing: ramp potential gets maintained for another $33\mu s$ to clear the trap from all charged particles
+		\end{itemize}
+		\item Measure resulting protons with silicon surface barrier detector (must be aligned precisely with proton beam).
 	\end{enumerate}
 	\item \ul{Choose an interesting technical aspect of the experiment and describe its relation and importance to the measurement.} \\
 	\noindent
-	An interesting fact is that it was chosen to lower the PMMA detector in several steps into the fiducial volume instead of just lowering it completely in the first place. According to the paper, this helps to study the uncertainties and dependences on neutron energy and momentum.
+	The alignment of the proton detector to measure the proton beam is quite sophisticated to avoid loss of counts due to exceeding the active area of the silicon. To do so, optical measurements were performed first to get a "rough" alignment. Furthermore, an electron beam from a $^{210}$Pb-$^{210}$Bi-$^{210}$Po source was used to monitor the the beam position on the detector. Last, the same procedure was performed with decay protons. All measurements agreed, according to the paper, better than $1 mm$.    
 	\item \ul{Pick one systematic uncertainty issue that you find interesting and describe  its importance and the author's method of addressing it.}\\
 	\noindent
-	In order to avoid fluctuations in number and energy of neutrons for loading trap the author uses beam monitors to monitor abundances of neutrons with higher energy and the spectral variance of the flux of the neutron source. By alternating the run times in a cycle of measurements these effects were reduces. 
+	
 	\item \ul{Fascinating aspect:} \\
 	\noindent
-	Interestingly the collaboration chose to blind the data from the analysts to reduce bias such that the analyses result in a constant offset of $15s$. 
+	The experiment is described much more sophisticated than the Pattie et al. paper. The method also necessitates the application of much more systematic corrections to the data then the magnetic trap method. 
 \end{itemize}
 
 
