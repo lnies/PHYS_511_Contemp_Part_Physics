@@ -68,33 +68,54 @@
 \end{center}
 \textbf{\underline{Name}}: Lukas Nies \\
 \noindent
-\textbf{\underline{Paper}}: Nico et al. (Measurement of neutron lifetime using beam method) \\[0.5cm]
+\textbf{\underline{Paper}}: Baker et al. (Limit on EDM measured at ILL, 2006) \\[0.5cm] 
 \noindent
 \begin{itemize}
+	\item \ul{Motivation}
+	\noindent
+	Measuring the electric dipole moment of neutrons is a test of Physics beyond the standard model and can, if no EDM is found, constrain theories about the baryon asymmetry in the universe and Supersymmertry.
 	\item \ul{What is the main finding of this paper and why is it important?} \\
 	\noindent
-	The mean neutron lifetime was found to be $\tau_n=886.3\pm 1.2\text{(stat)}\pm 3.2\text{(sys)}s$ and therefore is the most precise measurement utilizing the beam method. It still disagrees with the magnetic trap method. 
+	The collaboration measures an upper limit for the EDM in the order of $\si{10\tothe{-26}\elementarycharge\centi\meter}$ which is the most precise measurement at this point.
+
 	\item \ul{Describe at a high level the basic technique used. Try a series of "steps" here if necessary, if there is a sequence to be followed (like a recipe).} \\
 	\noindent
-	\begin{enumerate}
-		\item Generate cold neutrons, guide into the proton trap 
-		\item Start the trapping cycle:
+	Batch cycle:
+	\begin{itemize}
+		\item Ultra cold neutrons (UCNs) are produced 
+		\item UCNs get spin polarized by a magnetized iron foil
+		\item Then enter 21 liter cylindrical trap with external vertical magnetic field of $\SI{1}{\micro\tesla}$
+		\item One fill period is $\SI{20}{\second}$ then the door gets closed
+		\item Two electrodes generate electric field of $\SI{100}{\kilo\volt\per\centi\meter}$
+		\item Measurement of transition frequency with "Ramsey separated-oscillatory-field magnetic oscillatory method":
 		\begin{itemize}
-			\item Trapping: trap protons produced by neutron decay for $10ms$.
-			\item Counting: Door gets grounded and a ramped potential "flushes" out the produced protons which are guided to the silicon detector (enabled for $21\mu s$).
-			\item Clearing: ramp potential gets maintained for another $33\mu s$ to clear the trap from all charged particles
+			\item All neutrons start spin-aligned with external magnetic field
+			\item "$\pi/2$ perturbation pulse" (small transverse magnetic field) flips spin with $90^{\circ}$, now free precession in horizontal plane
+			\item After some time second pulse is sent to rotate the spins again: If the two clocks (external pulse and neutron precession) are in phase then spin will be completely flipped. If not a phase difference accumulates over the free precession time and the spin is either flipped back upwards or downwards.
 		\end{itemize}
-		\item Measure resulting protons with silicon surface barrier detector (must be aligned precisely with proton beam).
-	\end{enumerate}
+		\item After Ramsey sequence was applied, door opens and neutrons fall down on the polarization foil
+		\item Only neutrons with same spin as before can leave, get counted in gaseous $^{3}He$ counter
+		\item Other neutrons get rejected, spin-flipped, and then counted
+	\end{itemize}
+
 	\item \ul{Choose an interesting technical aspect of the experiment and describe its relation and importance to the measurement.} \\
 	\noindent
-	The alignment of the proton detector to measure the proton beam is quite sophisticated to avoid loss of counts due to exceeding the active area of the silicon. To do so, optical measurements were performed first to get a "rough" alignment. Furthermore, an electron beam from a $^{210}$Pb-$^{210}$Bi-$^{210}$Po source was used to monitor the the beam position on the detector. Last, the same procedure was performed with decay protons. All measurements agreed, according to the paper, better than $1 mm$.    
-	\item \ul{Pick one systematic uncertainty issue that you find interesting and describe  its importance and the author's method of addressing it.}\\
-	\noindent
+	The experiment is equipped with a $^{199}Hg$ magnetometer consisting of mercury atoms injected in the trap to measure magnetic field drifts within the chamber. A $\pi/2$ pulse rotates the spins in a the horizontal plane where they precess freely. Measuring the absorption of circular polarized light gives a measure of the average strength of the magnetic field. Precise knowledge of the magnetic field is crucial for the measurement
 	
-	\item \ul{Fascinating aspect:} \\
+	\item \ul{Pick one systematic uncertainty issue that you find interesting and describe its importance and the author's method of addressing it.}\\
 	\noindent
-	The experiment is described much more sophisticated than the Pattie et al. paper. The method also necessitates the application of much more systematic corrections to the data then the magnetic trap method. 
+	In dealing with the geometric phase shift, the collaboration also had to take the earths rotation into account (!) since the atoms and neutrons trapped in the vacuum process freely while the earth rotates beneath them. 
+	
+	\item \ul{Where did you get lost? Was there anything you did not understand?:} \\
+	\noindent
+	\begin{enumerate}
+		\item A hard paper to read, only possible to roughly understand with "explanations" by Harris, who's paper is very well written.
+		\item How does the polarization foil work?
+		\item How did they measure that the COM of the neutrons is $\SI{2.8}{\milli\meter}$ below the mercury atoms?
+		\item How is the EDM extracted?
+		\item Geometric phase effect...
+	\end{enumerate}
+	
 \end{itemize}
 
 

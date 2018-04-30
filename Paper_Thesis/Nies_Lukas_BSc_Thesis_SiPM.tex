@@ -1,0 +1,255 @@
+\documentclass[a4paper,twoside=true,12pt,openright]{scrbook}
+\usepackage{a4}
+\usepackage[english]{babel}
+\setlength{\parindent}{0.35cm}
+\pagestyle{headings}
+\usepackage{lmodern}
+\usepackage{graphicx}
+%Multiple picture in one figure
+\usepackage{subfig}
+\usepackage{listings}
+\usepackage{color}
+%Zum Zeilen umbrechen in Tabellen
+\usepackage{pbox}
+% Using Blindtext
+\usepackage{blindtext}
+%Configuring figures and captions
+\usepackage{floatrow}
+%Wrap text around figures
+\usepackage{wrapfig}
+% Including PDF´s
+\usepackage{pdfpages}
+%Floating-Umgebungen
+\usepackage{float}
+%Math-Environment
+\usepackage{amsmath}
+\usepackage{amssymb}
+%For better captions (without regged right from standard format)
+\usepackage{caption}
+\captionsetup{format=plain,font=normal,labelfont=bf,labelsep=colon} 
+%Because Physics is cool
+\usepackage{physics}
+%Better SI-Units
+\usepackage{siunitx}
+\DeclareSIUnit\century{century}
+\DeclareSIUnit\year{yr}
+\sisetup{
+	per-mode=fraction,
+%	fraction-function=\tfrac
+}
+%Using Appendix
+\usepackage[title]{appendix}
+%Using URL
+\usepackage[hidelinks]{hyperref}
+%Using Colored Tables
+\usepackage{colortbl}
+%Using text-based symbols
+\usepackage{textcomp}
+\usepackage{gensymb}
+% Zeilenabstand 
+\usepackage{setspace}
+%\singlespacing        %% 1-zeilig (Standard)
+\onehalfspacing       %% 1,5-zeilig
+%\doublespacing        %% 2-zeilig
+%Set indentation
+\setlength\parindent{0.75cm} 
+\setlength{\parskip}{0em} % no spacing between paragraphs
+%(possibly) fancy tables
+\usepackage{booktabs}
+
+% New/Renewing Commands
+\newcommand{\eV}{\electronvolt}
+\newcommand{\keV}{\kilo\electronvolt}
+\newcommand{\meV}{\mega\electronvolt}
+\newcommand{\gray}{\rowcolor[gray]{.90}}
+\newcommand{\degr}{^{\circ}}
+\newcommand{\tit}[1]{\textit{#1}}
+\newcommand{\baf}{BaF$_2$}
+\newcommand{\pwo}{PbWO$_4$}
+\newcommand{\ten}[1]{$10^{#1}$}
+\newcommand{\orb}[2]{$#1^{#2}$}
+\newcommand{\stat}[2]{$#1_{#2}$}
+\newcommand{\ft}[2]{$#1\rightarrow#2$}
+\newcommand{\sr}{$^{90}$Sr}
+\newcommand{\co}{$^{60}$Co}
+\newcommand{\eu}{$^{152}$Eu}
+\newcommand{\cs}{$^{137}$Cs}
+\newcommand{\ba}{$^{133}$Ba}
+\newcommand{\na}{$^{22}$Na}
+\newcommand{\ka}{$^{40}$Ka}
+%Configure geometry
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	left=3cm,
+	right=3cm,
+	top=3cm,
+	bottom = 3cm,
+	}
+
+\lstset{
+	language=C++,
+	basicstyle=\small\ttfamily,
+	keywordstyle=\color{blue}\ttfamily,
+	stringstyle=\color{red}\ttfamily,
+	commentstyle=\color{green}\ttfamily,
+	morecomment=[l][\color{magenta}]{\#},
+}
+\newcommand{\LMUTitle}[9]{
+	\thispagestyle{empty}
+	\vspace*{\stretch{1}}
+	{\parindent0cm
+		\rule{\linewidth}{.7ex}}
+	\begin{center}
+		
+		\vspace*{\stretch{1}}
+		\sffamily\bfseries\Large
+		#1\\
+		\vspace*{\stretch{1}}
+		\sffamily\bfseries\large
+		#2
+		\vspace*{\stretch{1}}
+	\end{center}
+	\rule{\linewidth}{.7ex}
+	\vspace*{\stretch{5}}
+	\begin{center}
+		\includegraphics[width=2.5in]{logo.jpg}
+	\end{center}
+	\vspace*{\stretch{1}}
+	\begin{center}\sffamily\LARGE{#5}\end{center}
+	\newpage
+	\thispagestyle{empty}
+	
+	\cleardoublepage
+	\thispagestyle{empty}
+	
+	\vspace*{\stretch{1}}
+	{\parindent0cm
+		\rule{\linewidth}{.7ex}}
+	\begin{center}
+		\vspace*{\stretch{1}}
+		\sffamily\bfseries\Large
+		#1\\
+		\vspace*{\stretch{1}}
+		\sffamily\bfseries\large
+		#2
+		\vspace*{\stretch{1}}
+	\end{center}
+	\rule{\linewidth}{.7ex}
+	
+	\vspace*{\stretch{3}}
+	\begin{center}
+		\Large Bachelor Thesis\\
+		\Large am #4\\
+		\Large der Justus-Liebig-Universit\"at\\
+		\Large Gie\ss{}en\\
+		\vspace*{\stretch{1}}
+		\Large vorgelegt von\\
+		\Large #2\\
+		\Large aus #3\\
+		\vspace*{\stretch{2}}
+		\Large Gie\ss{}en, den #6
+	\end{center}
+	
+	\newpage
+	\thispagestyle{empty}
+	
+	\vspace*{\stretch{1}}
+	
+	\begin{flushleft}
+		\large Betreuer: #7 \\[1mm]
+		\large Erstgutachter:  #8 \\[1mm]
+		\large Zweitgutachter: #9 \\[1mm]
+		\large Tag der Abgabe: #6\\
+	\end{flushleft}
+	
+	\clearpage
+}
+
+\begin{document}
+
+
+\input{deckblatt.tex}
+
+\cleardoublepage
+
+\frontmatter
+
+\input{chapter_abstract.tex}
+
+\clearpage
+
+\input{chapter_acknowledgments.tex}
+
+\clearpage
+
+\thispagestyle{empty}
+\tableofcontents
+\cleardoublepage
+\mbox{}
+\thispagestyle{empty}
+\newpage
+\newpage
+\setcounter{page}{0}
+
+\mainmatter
+
+\input{chapter_particle_interaction.tex}
+
+\input{chapter_scintillators.tex}
+
+\input{chapter_photodetectors.tex}
+
+\input{chapter_sipm.tex}
+
+\input{chapter_timing_energy.tex}
+
+\input{chapter_outlook.tex}
+
+
+	
+\clearpage
+\newpage
+
+
+
+\begin{appendices}
+	
+\input{appendix.tex}
+	
+%\chapter*{List of Tables}
+
+\listoftables
+\addcontentsline{toc}{chapter}{List of Tables}%	
+%\chapter*{List of Figures}
+	
+\setcounter{figure}{0}  
+\listoffigures	
+\addcontentsline{toc}{chapter}{List of Figures}%
+
+\clearpage
+	
+%\chapter*{Bibliography}
+%\addcontentsline{toc}{chapter}{Bibliography}%	
+	
+\bibliographystyle{unsrt}
+\bibliography{./bib}
+
+	
+\end{appendices}
+
+\includepdf{Selbststaendigkeitserklaerung.pdf}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}  

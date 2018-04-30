@@ -1,0 +1,122 @@
+\documentclass[12pt]{article}
+\usepackage{a4}
+\usepackage[english]{babel}
+\setlength{\parindent}{0.35cm}
+\pagestyle{headings}
+\usepackage{graphicx}
+\usepackage{grffile}
+%Multiple picture in one figure
+%\usepackage{subfigure}
+\usepackage{subfig}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{wrapfig}
+%Floating-Umgebungen
+\usepackage{float}
+%Math-Environment
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{bbm}
+%Better SI-Units
+\usepackage{siunitx}
+%Using Appendix
+\usepackage[title]{appendix}
+%Using URL
+\usepackage[hidelinks]{hyperref}
+%Using Colored Tables
+\usepackage{colortbl}
+\newcommand{\gray}{\rowcolor[gray]{.90}}
+\usepackage{esvect}
+% Use fancy tables
+\usepackage{tabularx}
+% Build fancy tables
+\usepackage{booktabs}
+\usepackage{soul}
+% Configure enumeration
+\usepackage{enumitem}
+%Configure geometry
+\usepackage[letterpaper]{geometry}
+\geometry{
+	letterpaper,
+	left=3cm,
+	right=3cm,
+	top=3cm,
+	bottom = 3cm,
+}
+
+\lstset{
+	language=C++,
+	basicstyle=\small\ttfamily,
+	keywordstyle=\color{blue}\ttfamily,
+	stringstyle=\color{red}\ttfamily,
+	commentstyle=\color{green}\ttfamily,
+	morecomment=[l][\color{magenta}]{\#},
+}
+
+
+\usepackage{amsthm}
+
+\renewcommand\qedsymbol{$\blacksquare$}
+\newtheorem{theorem}{Theorem}[section]
+
+\begin{document}
+	\noindent
+	\begin{center}
+		\centering
+		\Large{\textbf{Paper Evaluation and Summary}}
+	\end{center}
+	\textbf{\underline{Name}}: Lukas Nies \\
+	\noindent
+	\textbf{\underline{Paper}}: Jelley et al. (Sudbury Neutrino Experiment, 2009) \\[0.5cm] 
+	\noindent
+	\begin{itemize}
+		\item \ul{Motivation}
+		\noindent
+		Motivated to solve the solar Neutrino problem (total neutrino flux measured by Davies Jr. only made up only one third of the expected flux calculated by Bahcall) the Sudbury Neutrino Observatory was designed to be sensitive to all three neutrino flavors.
+		
+		\item \ul{What is the main finding of this paper and why is it important?} \\
+		\noindent
+		The SNO experiment was the first detector to measure the fluxes of all the different neutrino flavors at the same time. After three measurement phases, the SNO experiment agrees with results of the Super-Kamiokande experiment via elastic scattering processes and confirms the predicted neutrino flux from the sun and therefore approves the neutrino oscillation theory and MSW effect. 
+		
+		\item \ul{Describe at a high level the basic technique used. Try a series of "steps" here if necessary, if there is a sequence to be followed (like a recipe).} \\
+		\noindent
+		Physics capabilities:
+		\begin{itemize}
+			\item Spectral information via either charged currents ($\nu_e$-capture by deuterium) or neutral currents ($\nu_x$-capture by deuterium)
+			\item Directional information via $\nu_x$-scattering with electrons
+		\end{itemize}
+		\noindent
+		Three operation phases:
+		\begin{enumerate}
+			\item Phase: Pure heavy water, detection of $\nu_e$ via capture by deuterium and measuring Cherenkov light emitted by released gamma ray.
+			\item Phase: Heavy water with additional NaCl, detection of photon shower produced from neutrons captured by $^{35}Cl$ from the neutral current reaction.
+			\item Phase: Removal of NaCl and introduction of $^3He$-filled proportional counters, independent measurement of the neutrons produced in neutral current reaction (separate but simultaneous measurement)
+		\end{enumerate}
+		\noindent
+		Detector setup:
+		\begin{itemize}
+			\item Location: Sudbury, Canada, in a mine ca. 2000m underground
+			\item Acrylic vessel, 12m in diameter, 5.6cm thick
+			\item Vessel holds 1000 tonnes of ultra pure heavy water
+			\item 9438 PMTs observe heavy water and mounted in the PMT support structure. Light concentrators enhance the light collection efficiency. 
+			\item The whole vessel is immersed in ultra pure water which is monitored by several PMTs facing outwards to detect background events in water
+		\end{itemize}
+		\noindent Solar neutrinos passing through the detector might interact via one of the three different interactions and the PMTs (or proportional counter in phase three) count the produced light. 
+		
+		\item \ul{Choose an interesting technical aspect of the experiment and describe its relation and importance to the measurement.} \\
+		\noindent
+		The sole aspect that the experiment is located 2 kilometers deep in a mine to reduce background radiation is fascinating. In general it's astonishing how meticulous low background experiments try to avoid picking up environmental radiation. Every material used in this experiment (PMT glass, steel beam construction, water, etc...) is ultra pure. Especially interesting to me is the procedure to seal the cavity against: the inner surface was covered by porous "geotextile", concrete, and polyurethane. 
+
+		\item \ul{Where did you get lost? Was there anything you did not understand?:} \\
+		\noindent
+		\begin{itemize}
+			\item Where exactly are the PMTs relative to the heavy water and normal water, where exactly is the normal water and how is it confined?
+			\item Calibration source: laser ball for probing the optical properties
+			\item What is geotextile?
+		\end{itemize}
+		
+	\end{itemize}
+	
+	
+\end{document}  

@@ -1,0 +1,147 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax 1.1}{\ignorespaces Interaction of phtonos with matter}}{2}{figure.caption.5}
+\contentsline {figure}{\numberline {\relax 1.2}{\ignorespaces Interaction of charged particles with matter}}{5}{figure.caption.6}
+\contentsline {figure}{\numberline {\relax 1.3}{\ignorespaces Interaction of electrons with matter}}{5}{figure.caption.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax 2.1}{\ignorespaces Stokes shift}}{13}{figure.caption.8}
+\contentsline {figure}{\numberline {\relax 2.2}{\ignorespaces Absorption and emission of scintillator materials}}{13}{figure.caption.9}
+\contentsline {figure}{\numberline {\relax 2.3}{\ignorespaces Electronic band structure}}{14}{figure.caption.10}
+\contentsline {figure}{\numberline {\relax 2.4}{\ignorespaces Luminescence center}}{14}{figure.caption.11}
+\contentsline {figure}{\numberline {\relax 2.5}{\ignorespaces Time scales of luminescence in inorganic scintillators}}{15}{figure.caption.12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax 3.1}{\ignorespaces Photomultiplier tube}}{21}{figure.caption.14}
+\contentsline {figure}{\numberline {\relax 3.2}{\ignorespaces Photon sensitivity of PMTs}}{21}{figure.caption.15}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Photocathode radiant sensitivity}}}{21}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Photon emission spectra }}}{21}{subfigure.2.2}
+\contentsline {figure}{\numberline {\relax 3.3}{\ignorespaces p-n junction}}{22}{figure.caption.16}
+\contentsline {figure}{\numberline {\relax 3.4}{\ignorespaces Photodiode}}{22}{figure.caption.17}
+\contentsline {figure}{\numberline {\relax 3.5}{\ignorespaces SiPM schematics}}{23}{figure.caption.18}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {N-on-P structure.}}}{23}{subfigure.5.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {KETEK} \textit {P-on-N} structure}}}{23}{subfigure.5.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax 4.1}{\ignorespaces SiPM circuit configurations}}{25}{figure.caption.19}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {SiPM Printed Circuit Board (PCB)}}}{25}{subfigure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {SiPM circuit configurations \cite {sebastian}}}}{25}{subfigure.1.2}
+\contentsline {figure}{\numberline {\relax 4.2}{\ignorespaces Schematic of the IV-characterization measurement setup.\relax }}{31}{figure.caption.20}
+\contentsline {figure}{\numberline {\relax 4.3}{\ignorespaces IV-curve of different board configurations}}{32}{figure.caption.21}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {(s)-configuration}}}{32}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {(s)-configuration logscale}}}{32}{subfigure.3.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {(h)-configuration}}}{32}{subfigure.3.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {(h)-configuration logscale}}}{32}{subfigure.3.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {(p)-configuration}}}{32}{subfigure.3.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {(p)-configuration logscale}}}{32}{subfigure.3.6}
+\contentsline {figure}{\numberline {\relax 4.4}{\ignorespaces Comparison of operation voltages}}{33}{figure.caption.22}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {(s)-configuration}}}{33}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {(h)- and (p)-configuration}}}{33}{subfigure.4.2}
+\contentsline {figure}{\numberline {\relax 4.5}{\ignorespaces Comparison of breakdown and operation voltages}}{33}{figure.caption.24}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {(s)-configuration}}}{33}{subfigure.5.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {(h)- and (p)-configuration}}}{33}{subfigure.5.2}
+\contentsline {figure}{\numberline {\relax 4.6}{\ignorespaces Dark spectrum of single and multiple SiPM-configurations}}{34}{figure.caption.25}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {(s)-configuration. $\SI {5}{\nano \second }$/div and $\SI {20}{\milli \volt }$/div. Threshold at $\SI {-12}{\milli \volt }$.}}}{34}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {(h)-configuration. $\SI {5}{\nano \second }$/div and $\SI {5}{\milli \volt }$/div. Threshold at $\SI {-8}{\milli \volt }$.}}}{34}{subfigure.6.2}
+\contentsline {figure}{\numberline {\relax 4.7}{\ignorespaces Pulse hight spectrum}}{34}{figure.caption.26}
+\contentsline {figure}{\numberline {\relax 4.8}{\ignorespaces Schematic of the dark count rate measurement}}{35}{figure.caption.27}
+\contentsline {figure}{\numberline {\relax 4.9}{\ignorespaces Slope of the dark count rate}}{36}{figure.caption.28}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax 5.1}{\ignorespaces Plastic scintillator measurement}}{37}{figure.caption.30}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Single SiPM with mask and optical grease}}}{37}{subfigure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Mounted SiPM-boards on the plastic scintillator}}}{37}{subfigure.1.2}
+\contentsline {figure}{\numberline {\relax 5.2}{\ignorespaces ``Bias T"}}{38}{figure.caption.31}
+\contentsline {figure}{\numberline {\relax 5.3}{\ignorespaces Signal shaping}}{38}{figure.caption.32}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Raw signal of the different configurations: blue (4x1 hybrid), red (4x1 parallel), green (1x1 single)}}}{38}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Amplified signal of blue (4x1 hybrid), red (4x1 parallel), green (1x1 single) with utilized photonique preamplifier}}}{38}{subfigure.3.2}
+\contentsline {figure}{\numberline {\relax 5.13}{\ignorespaces LYSO energy calibration}}{45}{figure.caption.42}
+\contentsline {figure}{\numberline {\relax 5.14}{\ignorespaces LYSO energy spectra}}{46}{figure.caption.43}
+\contentsline {figure}{\numberline {\relax 5.4}{\ignorespaces Schematic of the efficiency measurement}}{49}{figure.caption.33}
+\contentsline {figure}{\numberline {\relax 5.5}{\ignorespaces Efficiency measurement setup}}{50}{figure.caption.34}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Measurement positions}}}{50}{subfigure.5.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Detector one}}}{50}{subfigure.5.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Detector two}}}{50}{subfigure.5.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Coincidence rate}}}{50}{subfigure.5.4}
+\contentsline {figure}{\numberline {\relax 5.6}{\ignorespaces Schematic of the time resolution measurement}}{51}{figure.caption.35}
+\contentsline {figure}{\numberline {\relax 5.7}{\ignorespaces Time calibration}}{52}{figure.caption.36}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Time calibration spectrum. The second x-axis already shows the calibrated time. The key represents the employed delays.}}}{52}{subfigure.7.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Time calibration fit. The datapoints were extracted via Gaussian fits, using the \texttt {root} framework.}}}{52}{subfigure.7.2}
+\contentsline {figure}{\numberline {\relax 5.8}{\ignorespaces Timing reolution measurement}}{52}{figure.caption.37}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Measurement positions}}}{52}{subfigure.8.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Time resolution}}}{52}{subfigure.8.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Propagation time}}}{52}{subfigure.8.3}
+\contentsline {figure}{\numberline {\relax 5.9}{\ignorespaces Threshold dependence of the propagation time measurement}}{53}{figure.caption.38}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {The left peak represents the y position over detector one, right peak over detector two. The time distance between two peaks should represent the maximum propagation time of the photons.}}}{53}{subfigure.9.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Difference of relative timing between the detectors for the two extreme positions of the source}}}{53}{subfigure.9.2}
+\contentsline {figure}{\numberline {\relax 5.10}{\ignorespaces Schematic of the energy measurements}}{54}{figure.caption.39}
+\contentsline {figure}{\numberline {\relax 5.11}{\ignorespaces LYSO and PbWO$_4${} crystals}}{55}{figure.caption.40}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {LYSO crystal, sized $\SI {10}{\milli \meter }\times \SI {10}{\milli \meter }\times \SI {3.5}{\milli \meter }$}}}{55}{subfigure.11.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PbWO$_4${} crystal (sized $\SI {20}{\milli \meter }\times \SI {20}{\milli \meter }\times \SI {50}{\milli \meter }$) with the $3\times 2$ matrix-board}}}{55}{subfigure.11.2}
+\contentsline {figure}{\numberline {\relax 5.12}{\ignorespaces Energy resolution for the LYSO crystal setup}}{55}{figure.caption.41}
+\contentsline {figure}{\numberline {\relax 5.15}{\ignorespaces PbWO$_4${} energy spectra}}{56}{figure.caption.44}
+\contentsline {figure}{\numberline {\relax 5.16}{\ignorespaces Energy loss spectrum of cosmic muons}}{57}{figure.caption.45}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Energy spectrum without any trigger and small range}}}{57}{subfigure.16.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Energy spectrum with upper and lower trigger and wide range}}}{57}{subfigure.16.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax A.1}{\ignorespaces Interaction of phtonos with matter (detailed)}}{63}{figure.caption.46}
+\contentsline {figure}{\numberline {\relax A.2}{\ignorespaces Stopping power for a wide energy range}}{64}{figure.caption.47}
+\contentsline {figure}{\numberline {\relax A.3}{\ignorespaces Jablonski-Diagram}}{65}{figure.caption.48}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax B.1}{\ignorespaces Breakdown fits (single)}}{68}{figure.caption.49}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {(s)-configuration $\SI {25}{\degreeCelsius }$}}}{68}{subfigure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {(s)-configuration $\SI {20}{\degreeCelsius }$}}}{68}{subfigure.1.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {(s)-configuration $\SI {15}{\degreeCelsius }$}}}{68}{subfigure.1.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {(s)-configuration $\SI {10}{\degreeCelsius }$}}}{68}{subfigure.1.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {(s)-configuration $\SI {5}{\degreeCelsius }$}}}{68}{subfigure.1.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {(s)-configuration $\SI {0}{\degreeCelsius }$}}}{68}{subfigure.1.6}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {(s)-configuration $\SI {-25}{\degreeCelsius }$}}}{68}{subfigure.1.7}
+\contentsline {figure}{\numberline {\relax B.2}{\ignorespaces Breakdown fits (hybrid)}}{69}{figure.caption.50}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {(h)-configuration $\SI {25}{\degreeCelsius }$}}}{69}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {(h)-configuration $\SI {20}{\degreeCelsius }$}}}{69}{subfigure.2.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {(h)-configuration $\SI {15}{\degreeCelsius }$}}}{69}{subfigure.2.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {(h)-configuration $\SI {10}{\degreeCelsius }$}}}{69}{subfigure.2.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {(h)-configuration $\SI {5}{\degreeCelsius }$}}}{69}{subfigure.2.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {(h)-configuration $\SI {0}{\degreeCelsius }$}}}{69}{subfigure.2.6}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {(h)-configuration $\SI {-25}{\degreeCelsius }$}}}{69}{subfigure.2.7}
+\contentsline {figure}{\numberline {\relax B.3}{\ignorespaces Operation voltage fits (single)}}{71}{figure.caption.51}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {(s)-configuration $\SI {25}{\degreeCelsius }$}}}{71}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {(s)-configuration $\SI {20}{\degreeCelsius }$}}}{71}{subfigure.3.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {(s)-configuration $\SI {15}{\degreeCelsius }$}}}{71}{subfigure.3.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {(s)-configuration $\SI {10}{\degreeCelsius }$}}}{71}{subfigure.3.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {(s)-configuration $\SI {5}{\degreeCelsius }$}}}{71}{subfigure.3.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {(s)-configuration $\SI {0}{\degreeCelsius }$}}}{71}{subfigure.3.6}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {(s)-configuration $\SI {-25}{\degreeCelsius }$}}}{71}{subfigure.3.7}
+\contentsline {figure}{\numberline {\relax B.4}{\ignorespaces Operation voltage fits (hyrbid)}}{72}{figure.caption.52}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {(s)-configuration $\SI {25}{\degreeCelsius }$}}}{72}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {(s)-configuration $\SI {20}{\degreeCelsius }$}}}{72}{subfigure.4.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {(s)-configuration $\SI {15}{\degreeCelsius }$}}}{72}{subfigure.4.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {(s)-configuration $\SI {10}{\degreeCelsius }$}}}{72}{subfigure.4.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {(s)-configuration $\SI {5}{\degreeCelsius }$}}}{72}{subfigure.4.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {(s)-configuration $\SI {0}{\degreeCelsius }$}}}{72}{subfigure.4.6}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {(s)-configuration $\SI {-25}{\degreeCelsius }$}}}{72}{subfigure.4.7}
+\contentsline {figure}{\numberline {\relax B.5}{\ignorespaces LYSO energy calibration spectra (detailed)}}{74}{figure.caption.54}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$^{152}$Eu{} energy calibration spectrum for $\SI {25}{\degreeCelsius }$}}}{74}{subfigure.5.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$^{152}$Eu{} energy calibration spectrum for $\SI {-25}{\degreeCelsius }$}}}{74}{subfigure.5.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$^{133}$Ba{} energy calibration spectrum for $\SI {25}{\degreeCelsius }$}}}{74}{subfigure.5.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$^{133}$Ba{} energy calibration spectrum for $\SI {-25}{\degreeCelsius }$}}}{74}{subfigure.5.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$^{60}$Co{} energy calibration spectrum for $\SI {25}{\degreeCelsius }$}}}{74}{subfigure.5.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$^{60}$Co{} energy calibration spectrum for $\SI {-25}{\degreeCelsius }$}}}{74}{subfigure.5.6}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {$^{137}$Cs{} energy calibration spectrum for $\SI {25}{\degreeCelsius }$}}}{75}{subfigure.5.7}
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {$^{137}$Cs{} energy calibration spectrum for $\SI {-25}{\degreeCelsius }$}}}{75}{subfigure.5.8}
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {$^{22}$Na{} energy calibration spectrum for $\SI {25}{\degreeCelsius }$}}}{75}{subfigure.5.9}
+\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {$^{22}$Na{} energy calibration spectrum for $\SI {-25}{\degreeCelsius }$}}}{75}{subfigure.5.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax C.1}{\ignorespaces SiPM under light microscope}}{77}{figure.caption.56}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Single SiPM with partially molten epoxy entrance window}}}{77}{subfigure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$50\si {\micro \meter }\times 50\si {\micro \meter }$ sized microcells }}}{77}{subfigure.1.2}
+\contentsline {figure}{\numberline {\relax C.2}{\ignorespaces SiPM with masks}}{78}{figure.caption.57}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Different SiPM configurations}}}{78}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {SiPM masks}}}{78}{subfigure.2.2}
+\contentsline {figure}{\numberline {\relax C.3}{\ignorespaces Various scintillators}}{79}{figure.caption.58}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Plastic scintillator \textit {EJ-248M} from \textit {ELJEN} with a thickness of $\SI {10}{\milli \meter }$}}}{79}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Various inorganic scintillators, BGO and BaF$_2${} already wrapped in teflon foil and black tape }}}{79}{subfigure.3.2}
+\contentsline {figure}{\numberline {\relax C.4}{\ignorespaces Various SiPM types}}{80}{figure.caption.59}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Different SiPM types.}}}{80}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Unequipped front of back of the SiPM-boards}}}{80}{subfigure.4.2}
+\contentsline {figure}{\numberline {\relax C.5}{\ignorespaces Schematic of the plastic scintillator}}{81}{figure.caption.60}
+\contentsline {figure}{\numberline {\relax C.6}{\ignorespaces Schematics of the used scintillators}}{82}{figure.caption.61}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Schematic of the LYSO crystal}}}{82}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Schematic of the PbWO$_4${} crystal}}}{82}{subfigure.6.2}
