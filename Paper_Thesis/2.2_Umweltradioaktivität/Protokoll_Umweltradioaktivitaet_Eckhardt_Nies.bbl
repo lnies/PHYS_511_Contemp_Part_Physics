@@ -1,0 +1,58 @@
+\begin{thebibliography}{10}
+
+\bibitem{IAEA}
+\url{https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html}.
+\newblock [Online; accessed 27-02-2017].
+
+\bibitem{flug1}
+\url{http://www.helmholtz-muenchen.de/epcard-portal/dosisberechnung-auf-einer-reise/index.html}.
+\newblock [Online; accessed 27-12-2016].
+
+\bibitem{flug2}
+\url{https://www.bfs.de/DE/themen/ion/umwelt/luft-boden/flug/flug.html}.
+\newblock [Online; accessed 27-12-2016].
+
+\bibitem{NIST}
+\url{https://www.nist.gov/pml/productsservices/physical-reference-data}.
+\newblock [Online; accessed 29-12-2016].
+
+\bibitem{Kalium}
+\url{https://de.wikipedia.org/wiki/Kalium}.
+\newblock [Online; accessed 20-01-2017].
+
+\bibitem{cite1}
+{\em Umweltradiaktivit{\"a}t: Versuchsanleitung}.
+\newblock I. Physikalisches Institut Uni Giessen, 6. April 2016.
+
+\bibitem{demtroeder}
+Wolfgang Demt{\"o}der.
+\newblock {\em Experimentalphysik 4}.
+\newblock Springer-Verlag Berlin Heidelberg New York, 2. Auflage, 2004.
+
+\bibitem{cite2}
+Particle~Data Group.
+\newblock {\em {P}article {P}hysics {B}ooklet}.
+\newblock Lawrence Berkeley National Laboratory, July 2016.
+
+\bibitem{cite3}
+K.~Huber.
+\newblock {\em Fit und Fehler, Anleitung zur Fehlerrechnung für das
+  Kernphysikalische Praktikum}.
+\newblock I. Physikalisches Institut Uni Giessen, 18. Sep. 2006.
+
+\bibitem{povh}
+Bogdan Povh.
+\newblock {\em Teilchen und Kerne}.
+\newblock Springer-Lehrbuch, 8. Auflage, 2009.
+
+\bibitem{vogt-schulz}
+Schulz Vogt.
+\newblock {\em Grundz{\"u}ge des praktischen Strahlenschutzes}.
+\newblock Carl Hanser Verlag, 4. aktualisierte Auflage, 2007.
+
+\bibitem{cite4}
+Martin Volkmer.
+\newblock {\em Radioaktivit{\"a}t und Strahlenschutz}.
+\newblock Deutsches Atomforum e.V., Dezember 2012.
+
+\end{thebibliography}

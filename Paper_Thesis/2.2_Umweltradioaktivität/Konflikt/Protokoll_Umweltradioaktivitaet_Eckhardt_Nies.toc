@@ -1,0 +1,25 @@
+\select@language {german}
+\contentsline {section}{\numberline {1}Theoretische Grundlagen}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Kernprozesse}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Die $\alpha $-Strahlung}{1}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Die $\beta $-Strahlung}{2}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}Die $\gamma $-Strahlung}{2}{subsubsection.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.4}Weitere Strahlungsarten}{2}{subsubsection.1.1.4}
+\contentsline {subsection}{\numberline {1.2}Strahlenschutz}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Einheiten im Strahlenmesswesen}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Umweltradioaktivit"at}{4}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Abschirmung von Strahlung}{5}{subsubsection.1.2.3}
+\contentsline {subsection}{\numberline {1.3}Detektoren}{5}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Szintillationsz"ahler}{6}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Halbleiterdetektoren}{7}{subsubsection.1.3.2}
+\contentsline {section}{\numberline {2}Versuchsteil 1: Gammaspektroskopie}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Energieeichung}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Untergrundspektrum}{12}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Haushaltsgegenstand}{14}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Fragestellungen}{14}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Strahlenbelastung eines Menschen}{14}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Reichweite von $\beta $- und $\gamma $-Strahlung in Materie}{15}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}Die "'Milch-Wette"'}{16}{subsubsection.2.4.3}
+\contentsline {section}{\numberline {3}Versuchsteil 2: Ganzk"orperz"ahler}{16}{section.3}
+\contentsline {section}{\numberline {A}Abbildungen}{20}{Anhang.a.A}
+\contentsline {section}{\numberline {B}Literatur- und Bildverzeichnis}{20}{Anhang.a.B}
