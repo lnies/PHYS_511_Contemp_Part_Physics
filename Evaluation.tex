@@ -68,53 +68,45 @@
 \end{center}
 \textbf{\underline{Name}}: Lukas Nies \\
 \noindent
-\textbf{\underline{Paper}}: Baker et al. (Limit on EDM measured at ILL, 2006) \\[0.5cm] 
+\textbf{\underline{Paper}}: Graner et al. (Limit on AEDM measured at UW, 2016) \\[0.5cm] 
 \noindent
 \begin{itemize}
-	\item \ul{Motivation}
+	\item \ul{Motivation} \\
 	\noindent
-	Measuring the electric dipole moment of neutrons is a test of Physics beyond the standard model and can, if no EDM is found, constrain theories about the baryon asymmetry in the universe and Supersymmertry.
+	Measuring the electric dipole moment of the $^{199}Hg$ atom is a test of Physics beyond the standard model and can, if no AEDM is found, constrain theories about the baryon asymmetry in the universe and Supersymmertry. If an AEDM is found, this could be evidence for a violation of CP in strong interactions and may as well could explain today's excess of matter.
 	\item \ul{What is the main finding of this paper and why is it important?} \\
 	\noindent
-	The collaboration measures an upper limit for the EDM in the order of $\si{10\tothe{-26}\elementarycharge\centi\meter}$ which is the most precise measurement at this point.
+	The collaboration measures an upper limit for the atomic EDM in the order of $\si{10\tothe{-30}\elementarycharge\centi\meter}$ which is the most precise measurement at this point.
 
 	\item \ul{Describe at a high level the basic technique used. Try a series of "steps" here if necessary, if there is a sequence to be followed (like a recipe).} \\
 	\noindent
-	Batch cycle:
+	Four stacked vapor cells made of fused silica are filled with a small amount of CO buffer gas and $^{199}Hg$ and are placed in an external magnetic field. The atoms are transverse polarized and precess. An electric field with $\SI{10}{\kilo\volt}$ is applied for the inner two cells. The two outer cells don't have an electric field and are used as a magnetometer. One pump-probe cycle consists of:
 	\begin{itemize}
-		\item Ultra cold neutrons (UCNs) are produced 
-		\item UCNs get spin polarized by a magnetized iron foil
-		\item Then enter 21 liter cylindrical trap with external vertical magnetic field of $\SI{1}{\micro\tesla}$
-		\item One fill period is $\SI{20}{\second}$ then the door gets closed
-		\item Two electrodes generate electric field of $\SI{100}{\kilo\volt\per\centi\meter}$
-		\item Measurement of transition frequency with "Ramsey separated-oscillatory-field magnetic oscillatory method":
-		\begin{itemize}
-			\item All neutrons start spin-aligned with external magnetic field
-			\item "$\pi/2$ perturbation pulse" (small transverse magnetic field) flips spin with $90^{\circ}$, now free precession in horizontal plane
-			\item After some time second pulse is sent to rotate the spins again: If the two clocks (external pulse and neutron precession) are in phase then spin will be completely flipped. If not a phase difference accumulates over the free precession time and the spin is either flipped back upwards or downwards.
-		\end{itemize}
-		\item After Ramsey sequence was applied, door opens and neutrons fall down on the polarization foil
-		\item Only neutrons with same spin as before can leave, get counted in gaseous $^{3}He$ counter
-		\item Other neutrons get rejected, spin-flipped, and then counted
-	\end{itemize}
-
+		\item Pump period ($\SI{30}{\second}$): Utilizing circularly polarized laser light to coherently polarize atoms 
+		\item Equilibration period ($\SI{20}{\second}$): 
+		\item Initial probe period A ($\SI{20}{\second}$): Probe atoms with linear polarized, detuned, and attenuated laser light 
+		\item Free precession period ($\SI{170}{\second}$): Dark period
+		\item Final probe period B ($\SI{30}{\second}$): Probe atoms again
+	\end{itemize} 
+	The output beams are rotated and separated into the p and s components, each component is measured with an enhanced UV-photodiode.    
+	
 	\item \ul{Choose an interesting technical aspect of the experiment and describe its relation and importance to the measurement.} \\
 	\noindent
-	The experiment is equipped with a $^{199}Hg$ magnetometer consisting of mercury atoms injected in the trap to measure magnetic field drifts within the chamber. A $\pi/2$ pulse rotates the spins in a the horizontal plane where they precess freely. Measuring the absorption of circular polarized light gives a measure of the average strength of the magnetic field. Precise knowledge of the magnetic field is crucial for the measurement
+	The experiment is built such that very small disturbances in the magnetic local field can be measured. For this, $^{199}Hg$ atoms in the two outer cells are used as magnetometers. Knowing the exact magnetic field strength in the vapor chambers is crucial to get high precision and to avoid systematical error.  
 	
 	\item \ul{Pick one systematic uncertainty issue that you find interesting and describe its importance and the author's method of addressing it.}\\
 	\noindent
-	In dealing with the geometric phase shift, the collaboration also had to take the earths rotation into account (!) since the atoms and neutrons trapped in the vacuum process freely while the earth rotates beneath them. 
+	Leakage current flowing around the vapor cell increase the magnetic field producing a comparable Larmor shift as the AEDM would do. To monitor this, high sensitive ampere meters where connected to the chamber. An upper limit of flown current of $\SI{40}{\femto\ampere}$ was set. 
 	
 	\item \ul{Where did you get lost? Was there anything you did not understand?:} \\
 	\noindent
-	\begin{enumerate}
-		\item A hard paper to read, only possible to roughly understand with "explanations" by Harris, who's paper is very well written.
-		\item How does the polarization foil work?
-		\item How did they measure that the COM of the neutrons is $\SI{2.8}{\milli\meter}$ below the mercury atoms?
-		\item How is the EDM extracted?
-		\item Geometric phase effect...
-	\end{enumerate}
+	\begin{itemize}
+		\item Rotating copper plate for syncing laser with Larmor frequency?
+		\item Why is probing laser detuned and attenuated?
+		\item Potential feedthrough of the cell motion
+	\end{itemize}
+	
+	
 	
 \end{itemize}
 

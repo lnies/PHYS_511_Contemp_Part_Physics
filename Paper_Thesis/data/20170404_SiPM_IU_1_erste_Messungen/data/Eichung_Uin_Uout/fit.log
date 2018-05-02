@@ -1,0 +1,1134 @@
+
+
+*******************************************************************************
+Thu Apr 13 19:50:38 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(Uin)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Thu Apr 13 19:51:02 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 19:51:48 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(Uin)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Thu Apr 13 19:52:17 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(U)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Thu Apr 13 19:52:31 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 930.48            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.3963
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1e-30
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.98787
+rel. change during last iteration : -2.08425e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.998989
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.997978
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Thu Apr 13 19:52:49 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 930.48            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.3963
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1e-30
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.98787
+rel. change during last iteration : -2.08425e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.998989
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.997978
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Thu Apr 13 19:53:02 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 19:54:16 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 19:56:13 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 19:56:34 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 19:56:48 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 19:57:01 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 19:57:05 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 19:57:23 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 19:57:55 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 19:58:21 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 20:00:13 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 20:00:27 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 20:01:33 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 20:02:08 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 20:02:47 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 20:19:43 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 20:20:24 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 1:3
+        format = x:z
+        x range restricted to [60.0000 : 100.000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1110.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55.4008
+
+initial set of free parameter values
+
+slope           = 1
+offset          = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.658115
+rel. change during last iteration : -4.58868e-11
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.331189
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.109686
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope           = 0.933262         +/- 0.01022      (1.095%)
+offset          = -5.58155         +/- 0.8007       (14.35%)
+
+
+correlation matrix of the fit parameters:
+
+               slope  offset 
+slope           1.000 
+offset         -0.989  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 20:21:08 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 2:3
+        format = x:z
+        x range restricted to [40.0000 : 100.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 869.042           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0
+
+initial set of free parameter values
+
+slope2          = 1
+offset2         = 1
+BREAK:          Singular matrix in Givens()
+
+
+
+*******************************************************************************
+Thu Apr 13 20:21:38 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 2:3
+        format = x:z
+        x range restricted to [40.0000 : 100.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung2(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 21.7708           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.2894
+
+initial set of free parameter values
+
+slope2          = 1
+offset2         = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.00146005
+rel. change during last iteration : -1.5909e-12
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0135095
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000182507
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope2          = 0.990578         +/- 0.0003179    (0.03209%)
+offset2         = 0.119962         +/- 0.02036      (16.97%)
+
+
+correlation matrix of the fit parameters:
+
+               slope2 offset 
+slope2          1.000 
+offset2        -0.978  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 20:21:54 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 2:3
+        format = x:z
+        x range restricted to [40.0000 : 100.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung2(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 21.7708           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.2894
+
+initial set of free parameter values
+
+slope2          = 1
+offset2         = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.00146005
+rel. change during last iteration : -1.5909e-12
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0135095
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000182507
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope2          = 0.990578         +/- 0.0003179    (0.03209%)
+offset2         = 0.119962         +/- 0.02036      (16.97%)
+
+
+correlation matrix of the fit parameters:
+
+               slope2 offset 
+slope2          1.000 
+offset2        -0.978  1.000 
+
+
+*******************************************************************************
+Thu Apr 13 20:22:05 2017
+
+
+FIT:    data read from "eichung_ohne.txt" using 2:3
+        format = x:z
+        x range restricted to [40.0000 : 100.000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: eichung2(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 21.7708           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.2894
+
+initial set of free parameter values
+
+slope2          = 1
+offset2         = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.00146005
+rel. change during last iteration : -1.5909e-12
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0135095
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000182507
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+slope2          = 0.990578         +/- 0.0003179    (0.03209%)
+offset2         = 0.119962         +/- 0.02036      (16.97%)
+
+
+correlation matrix of the fit parameters:
+
+               slope2 offset 
+slope2          1.000 
+offset2        -0.978  1.000 

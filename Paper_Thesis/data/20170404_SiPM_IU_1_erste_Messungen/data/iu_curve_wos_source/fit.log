@@ -1,0 +1,878 @@
+
+
+*******************************************************************************
+Tue Apr 18 18:59:22 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n5_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [58.0000 : 90.0000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.11421e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 3557.28
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 8.94554e-09
+rel. change during last iteration : -4.21879e-07
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 4.22979e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.78911e-09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -3.6542e-07      +/- 2.774e-07    (75.92%)
+b               = 6.22514e-05      +/- 4.317e-05    (69.35%)
+c               = 0.00289434       +/- 0.001666     (57.55%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.999  1.000 
+c               0.996 -0.999  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:15:21 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n5_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [58.0000 : 90.0000]
+        #datapoints = 706
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.53245e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2650.85
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 8.70109
+rel. change during last iteration : -1.33387e-09
+
+degrees of freedom    (FIT_NDF)                        : 703
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.111252
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0123771
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00322252       +/- 0.0003434    (10.66%)
+b               = -0.395815        +/- 0.04506      (11.38%)
+c               = 12.3814          +/- 1.473        (11.9%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:16:59 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n5_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [58.0000 : 68.0000]
+        #datapoints = 285
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.90297e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2357.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.245933
+rel. change during last iteration : -2.85861e-06
+
+degrees of freedom    (FIT_NDF)                        : 282
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0295314
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000872104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00383588       +/- 0.0002314    (6.033%)
+b               = -0.474724        +/- 0.02929      (6.17%)
+c               = 14.91            +/- 0.9252       (6.205%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:17:24 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n5_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [58.0000 : 68.0000]
+        #datapoints = 285
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.90297e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2357.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.245933
+rel. change during last iteration : -2.85861e-06
+
+degrees of freedom    (FIT_NDF)                        : 282
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0295314
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000872104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00383588       +/- 0.0002314    (6.033%)
+b               = -0.474724        +/- 0.02929      (6.17%)
+c               = 14.91            +/- 0.9252       (6.205%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:17:49 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n5_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [58.0000 : 68.0000]
+        #datapoints = 285
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.90297e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2357.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.245933
+rel. change during last iteration : -2.85861e-06
+
+degrees of freedom    (FIT_NDF)                        : 282
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0295314
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000872104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00383588       +/- 0.0002314    (6.033%)
+b               = -0.474724        +/- 0.02929      (6.17%)
+c               = 14.91            +/- 0.9252       (6.205%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:18:06 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n5_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [58.0000 : 68.0000]
+        #datapoints = 285
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.90297e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2357.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.245933
+rel. change during last iteration : -2.85861e-06
+
+degrees of freedom    (FIT_NDF)                        : 282
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0295314
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000872104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00383588       +/- 0.0002314    (6.033%)
+b               = -0.474724        +/- 0.02929      (6.17%)
+c               = 14.91            +/- 0.9252       (6.205%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:18:22 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n5_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.56935e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2273.53
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.369659
+rel. change during last iteration : -6.94842e-08
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0327334
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00107148
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00480723       +/- 0.0001372    (2.853%)
+b               = -0.597795        +/- 0.01698      (2.84%)
+c               = 18.7991          +/- 0.5238       (2.786%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:18:31 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n5_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.56935e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2273.53
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.369659
+rel. change during last iteration : -6.94842e-08
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0327334
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00107148
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00480723       +/- 0.0001372    (2.853%)
+b               = -0.597795        +/- 0.01698      (2.84%)
+c               = 18.7991          +/- 0.5238       (2.786%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:20:56 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n15_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.56935e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2273.53
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.140042
+rel. change during last iteration : -1.78666e-07
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0201475
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00040592
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00474608       +/- 8.442e-05    (1.779%)
+b               = -0.590249        +/- 0.01045      (1.771%)
+c               = 18.5668          +/- 0.3224       (1.736%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:21:32 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n15_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.56935e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2273.53
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.140042
+rel. change during last iteration : -1.78666e-07
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0201475
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00040592
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00474608       +/- 8.442e-05    (1.779%)
+b               = -0.590249        +/- 0.01045      (1.771%)
+c               = 18.5668          +/- 0.3224       (1.736%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:22:13 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n31_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.56935e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2273.53
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.102308
+rel. change during last iteration : -2.39648e-07
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0172205
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000296544
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00470013       +/- 7.216e-05    (1.535%)
+b               = -0.584513        +/- 0.008933     (1.528%)
+c               = 18.3891          +/- 0.2756       (1.498%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:22:23 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n31_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.56935e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2273.53
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.102308
+rel. change during last iteration : -2.39648e-07
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0172205
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000296544
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00470013       +/- 7.216e-05    (1.535%)
+b               = -0.584513        +/- 0.008933     (1.528%)
+c               = 18.3891          +/- 0.2756       (1.498%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:22:33 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n31_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.56935e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2273.53
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.102308
+rel. change during last iteration : -2.39648e-07
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0172205
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000296544
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00470013       +/- 7.216e-05    (1.535%)
+b               = -0.584513        +/- 0.008933     (1.528%)
+c               = 18.3891          +/- 0.2756       (1.498%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:23:47 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n101_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.56935e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2273.53
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.0736043
+rel. change during last iteration : -1.95036e-07
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0146064
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000213346
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00360522       +/- 6.12e-05     (1.698%)
+b               = -0.450339        +/- 0.007577     (1.682%)
+c               = 14.2982          +/- 0.2337       (1.635%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:24:11 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n101_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.56935e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2273.53
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.0736043
+rel. change during last iteration : -1.95036e-07
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0146064
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000213346
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00360522       +/- 6.12e-05     (1.698%)
+b               = -0.450339        +/- 0.007577     (1.682%)
+c               = 14.2982          +/- 0.2337       (1.635%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 18 19:24:27 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n101_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.56935e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2273.53
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.0736043
+rel. change during last iteration : -1.95036e-07
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0146064
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000213346
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00360522       +/- 6.12e-05     (1.698%)
+b               = -0.450339        +/- 0.007577     (1.682%)
+c               = 14.2982          +/- 0.2337       (1.635%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Fri Apr 21 14:25:45 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n15_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+	pol(x) = ( x > 55 && x < 68 ) ? a * x**2 + b * x + c : 1/0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 5.5693523932e+09  0.00e+00 2.27e+03  1.000000e+00  1.000000e+00  1.000000e+00
+   8 1.4004242351e-01 -1.79e-02 2.27e-05  4.746079e-03 -5.902487e-01  1.856685e+01
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.140042
+rel. change during last iteration : -1.78666e-007
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0201475
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00040592
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.00474608       +/- 8.442e-005   (1.779%)
+b               = -0.590249        +/- 0.01045      (1.771%)
+c               = 18.5668          +/- 0.3224       (1.736%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 
+
+
+*******************************************************************************
+Tue Apr 25 17:15:18 2017
+
+
+FIT:    data read from "iu_curve_wo_source_n20_n5_600_der.txt" using 1:((0.991*$3+0.12)/$2)
+        format = x:z
+        x range restricted to [55.0000 : 68.0000]
+        #datapoints = 348
+        residuals are weighted equally (unit weight)
+
+function used for fitting: pol(x)
+	pol(x) = ( x > 55 && x < 68 ) ? a * x**2 + b * x + c : 1/0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 5.5693513339e+09  0.00e+00 2.27e+03  1.000000e+00  1.000000e+00  1.000000e+00
+   8 3.6965930826e-01 -6.95e-03 2.27e-05  4.807229e-03 -5.977949e-01  1.879908e+01
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.369659
+rel. change during last iteration : -6.94842e-008
+
+degrees of freedom    (FIT_NDF)                        : 345
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0327334
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00107148
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.00480723       +/- 0.0001372    (2.853%)
+b               = -0.597795        +/- 0.01698      (2.84%)
+c               = 18.7991          +/- 0.5238       (2.786%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -1.000  1.000 
+c               0.999 -1.000  1.000 

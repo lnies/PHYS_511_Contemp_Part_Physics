@@ -1,0 +1,15 @@
+% Threshhold scan with Det2, HV2=-1614V, t=60s, alpha=90deg, with source
+% [Threshhold[mV]] [Counts_in_60_secs]
+10 111763
+20 37050
+30 47821
+40 50086
+50 52865
+60 42584
+70 28659
+80 29832
+90 30564
+100 30775
+110 29326
+120 30564
+130 27938

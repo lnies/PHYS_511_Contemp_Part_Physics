@@ -1,0 +1,329 @@
+
+
+*******************************************************************************
+Fri May 26 14:32:29 2017
+
+
+FIT:    data read from "regel.txt"
+        format = z
+        x range restricted to [0.00000 : 10.0000]
+BREAK:          bad data on line 1 of datafile
+
+
+
+*******************************************************************************
+Fri May 26 14:32:54 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(T)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Fri May 26 14:34:12 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(T)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Fri May 26 14:34:21 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri May 26 14:34:40 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri May 26 14:38:26 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri May 26 14:38:34 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri May 26 14:40:03 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri May 26 14:41:44 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri May 26 14:42:07 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.58162e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 32.17
+
+initial set of free parameter values
+
+A               = 1
+C               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3.75144e+07
+rel. change during last iteration : -2.83046e-09
+
+degrees of freedom    (FIT_NDF)                        : 1054
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 188.66
+variance of residuals (reduced chisquare) = WSSR/ndf   : 35592.5
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 36.5039          +/- 0.1924       (0.5272%)
+C               = 4513.87          +/- 8.753        (0.1939%)
+
+
+correlation matrix of the fit parameters:
+
+               A      C      
+A               1.000 
+C              -0.748  1.000 
+
+
+*******************************************************************************
+Fri May 26 14:42:26 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.58162e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 32.17
+
+initial set of free parameter values
+
+A               = 1
+C               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3.75144e+07
+rel. change during last iteration : -2.83046e-09
+
+degrees of freedom    (FIT_NDF)                        : 1054
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 188.66
+variance of residuals (reduced chisquare) = WSSR/ndf   : 35592.5
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 36.5039          +/- 0.1924       (0.5272%)
+C               = 4513.87          +/- 8.753        (0.1939%)
+
+
+correlation matrix of the fit parameters:
+
+               A      C      
+A               1.000 
+C              -0.748  1.000 
+
+
+*******************************************************************************
+Fri May 26 14:42:58 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28617e+14       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0
+
+initial set of free parameter values
+
+A               = 1
+C               = 1
+BREAK:          Singular matrix in Givens()
+
+
+
+*******************************************************************************
+Fri May 26 14:43:16 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28618e+14       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 3.20153e+06
+
+initial set of free parameter values
+
+A               = 1
+C               = 1
+
+After 10 iterations the fit converged.
+final sum of squares of residuals : 3.06171e+08
+rel. change during last iteration : -4.7102e-06
+
+degrees of freedom    (FIT_NDF)                        : 1054
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 538.966
+variance of residuals (reduced chisquare) = WSSR/ndf   : 290484
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 0.363581         +/- 0.00184      (0.5062%)
+C               = 5109.1           +/- 19.46        (0.3809%)
+
+
+correlation matrix of the fit parameters:
+
+               A      C      
+A               1.000 
+C              -0.523  1.000 
+
+
+*******************************************************************************
+Fri May 26 14:43:47 2017
+
+
+FIT:    data read from "regel.txt" using 4:3
+        format = x:z
+        x range restricted to [0.00000 : 10.0000]
+        #datapoints = 1056
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+

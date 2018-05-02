@@ -1,0 +1,15 @@
+% Threshhold scan with Det1, HV1=-1600V, t=60s, alpha=90deg, with source
+% [Threshhold[mV]] [Counts_in_60_secs]
+10 61388
+20 59727
+30 48902
+40 39675
+50 36179
+60 31839
+70 29721
+80 27948
+90 28247
+100 27932
+110 24989
+120 24463
+130 21928

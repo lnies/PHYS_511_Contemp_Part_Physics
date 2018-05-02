@@ -1,0 +1,701 @@
+
+
+*******************************************************************************
+Sat Jul 29 21:10:33 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [1577.01 : 8452.01]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.4384388438e+09  0.00e+00 3.37e+03  1.000000e+00  1.000000e+00
+   7 1.4137780483e+05 -2.34e-01 3.37e-04  6.361122e+00 -3.631202e+03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : -2.33918e-006
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:10:43 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [1577.01 : 8452.01]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:10:58 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [1577.01 : 8452.01]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:11:37 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [1577.01 : 8452.01]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:11:48 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [1577.01 : 8452.01]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:12:24 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [1649.80 : 7258.81]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:12:43 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [1649.80 : 7258.81]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:12:54 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [1649.80 : 7258.81]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:13:23 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:13:28 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:13:58 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [1975.44 : 7025.61]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:14:29 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [1975.44 : 7025.61]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:14:50 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [2000.00 : 7000.00]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Jul 29 21:14:54 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [2000.00 : 7000.00]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.4137780483e+05  0.00e+00 2.16e+04  6.361122e+00 -3.631202e+03
+   1 1.4137780483e+05  0.00e+00 2.16e+06  6.361122e+00 -3.631202e+03
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Tue Aug 01 22:49:03 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [2000.00 : 7000.00]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.4384388438e+09  0.00e+00 3.37e+03  1.000000e+00  1.000000e+00
+   7 1.4137780483e+05 -2.34e-01 3.37e-04  6.361122e+00 -3.631202e+03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : -2.33918e-006
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Wed Aug 02 10:59:38 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [2000.00 : 7000.00]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.4384388438e+09  0.00e+00 3.37e+03  1.000000e+00  1.000000e+00
+   7 1.4137780483e+05 -2.34e-01 3.37e-04  6.361122e+00 -3.631202e+03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : -2.33918e-006
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Wed Aug 02 11:01:01 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [2000.00 : 7000.00]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.4384388438e+09  0.00e+00 3.37e+03  1.000000e+00  1.000000e+00
+   7 1.4137780483e+05 -2.34e-01 3.37e-04  6.361122e+00 -3.631202e+03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : -2.33918e-006
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Sat Aug 05 18:14:43 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [2000.00 : 7000.00]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.4384388438e+09  0.00e+00 3.37e+03  1.000000e+00  1.000000e+00
+   7 1.4137780483e+05 -2.34e-01 3.37e-04  6.361122e+00 -3.631202e+03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : -2.33918e-006
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 
+
+
+*******************************************************************************
+Thu Aug 10 14:07:20 2017
+
+
+FIT:    data read from "ze.csv" using 3:1
+        format = x:z
+        x range restricted to [2000.00 : 7000.00]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: linfit(x)
+	linfit(x)=m*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.4384388438e+09  0.00e+00 3.37e+03  1.000000e+00  1.000000e+00
+   7 1.4137780483e+05 -2.34e-01 3.37e-04  6.361122e+00 -3.631202e+03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 141378
+rel. change during last iteration : -2.33918e-006
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 168.153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 28275.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 6.36112          +/- 0.04043      (0.6356%)
+b               = -3631.2          +/- 192.8        (5.309%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.944  1.000 

@@ -1,0 +1,14 @@
+# signal_width_afte_discr. number_counts
+# alpha=180deg t=300s, HV1=HV2=-1500V
+
+50 55
+75 46
+100 21
+125 41
+150 72
+175 62
+200 30
+225 19
+250 27
+275 153
+300 226
