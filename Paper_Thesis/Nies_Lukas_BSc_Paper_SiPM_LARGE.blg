@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Nies_Lukas_BSc_Paper_SiPM_LARGE.aux
+The style file: plain.bst
+Database file #1: ./bib.bib
+Warning--entry type for "Lukas_Thesis" isn't style-file defined
+--line 377 of file ./bib.bib
+Warning--empty booktitle in sebastian
+You've used 8 entries,
+            2118 wiz_defined-function locations,
+            539 strings with 5347 characters,
+and the built_in function-call counts, 1766 in all, are:
+= -- 167
+> -- 72
+< -- 0
++ -- 31
+- -- 22
+* -- 69
+:= -- 320
+add.period$ -- 24
+call.type$ -- 8
+change.case$ -- 34
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 67
+empty$ -- 162
+format.name$ -- 22
+if$ -- 370
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 3
+newline$ -- 42
+num.names$ -- 16
+pop$ -- 57
+preamble$ -- 1
+purify$ -- 27
+quote$ -- 0
+skip$ -- 51
+stack$ -- 0
+substring$ -- 41
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 30
+warning$ -- 1
+while$ -- 16
+width$ -- 9
+write$ -- 81
+(There were 2 warnings)

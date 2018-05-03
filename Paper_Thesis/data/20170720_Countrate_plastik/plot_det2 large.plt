@@ -30,7 +30,7 @@ set mxtics tickss
 #set tics in
 #set format y "10^{%1.0f}"
 
-set grid lc "grey" lw 2 
+set grid lc "black" lw 0.75 
 set grid mxtics
 set grid mytics
 
@@ -40,9 +40,17 @@ set style line 1 lc "blue" lt 1 lw 3 pt 5 ps 3
 
 set view map
 
+set pm3d interpolate 0,0
+set palette defined (0 0 0 0.5, 1 0 0 1, 2 0 0.5 1, 3 0 1 1, 4 0.5 1 0.5, 5 1 1 0, 6 1 0.5 0, 7 1 0 0, 8 0.5 0 0)
+
+set cblabel "Count rate [Hz]" 
+set lmargin at screen 0.2
+set rmargin at screen 0.7
+set cbrange [100:800]
+
 
 splot \
-	"aufl.csv" using 1:2:3 ls 1 notitle 
+	"Countrate_3rd.csv" using 1:2:($5/10) ls 1 notitle with pm3d
 
 	
 	

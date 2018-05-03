@@ -2,7 +2,7 @@
 
 #set title "Single SiPM (logscale)"
 
-set terminal wxt size 1280,1024 enhanced font "Arial, 28"
+set terminal wxt size 1280,1024 enhanced font "Arial, 40"
 set termoptions enhanced
 
 set style line 101 lc "black" lt 1 lw 3 pt 9 ps 3 pi 2
@@ -12,11 +12,11 @@ set border front ls 101
 #set xrange [22:29]
 #set yrange [-1:log10(1200)]
 
-set xlabel "Time [ns]" offset 0 font "Arial, 32"
-set ylabel "Amplitude [mV]" offset 0 font "Arial, 32"
+set xlabel "Time [ns]" offset 0 font "Arial, 50"
+set ylabel "Amplitude [mV]" offset 0 font "Arial, 50"
 
 #set key outside
-set key left top box lw 2 opaque
+set key left bottom box lw 2 opaque
 
 #set ytics 1
 #set mytics 2
@@ -26,15 +26,15 @@ set key left top box lw 2 opaque
 #set tics in
 #set format y "10^{%1.0f}"
 
-set grid lc "grey" lw 2
+set grid lc "grey" lw 4
 #set grid mxtics
 #set grid mytics
 
 #set logscale y
 
-set style line 1 lc "blue" lt 1 lw 4 pt 1 ps 1 
-set style line 2 lc "red" lt 1 lw 4 pt 1 ps 1 
-set style line 3 lc "green" lt 1 lw 4 pt 1 ps 1 
+set style line 1 lc "blue" lt 1 lw 8 pt 1 ps 1 
+set style line 2 lc "red" lt 1 lw 8 pt 1 ps 1 
+set style line 3 lc "green" lt 1 lw 8 pt 1 ps 1 
 
 t_single = 12.876
 t_hybrid = 8.66509

@@ -42,7 +42,7 @@ set view map
 
 
 splot \
-	"aufl.csv" using 1:2:3 ls 1 notitle 
+	"Countrate_3rd.csv" using 1:2:3 ls 1 notitle 
 
 	
 	

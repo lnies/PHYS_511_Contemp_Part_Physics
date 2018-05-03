@@ -9,7 +9,7 @@ set style line 101 lc "black" lt 1 lw 3 pt 9 ps 3 pi 2
 
 set border front ls 101
 
-set ylabel "Normalized slope of countrate [counts/(s*mV)]" offset 0 font "Arial, 32"
+set ylabel "Normalized slope of count rate [counts/(s*mV)]" offset 0 font "Arial, 32"
 set xlabel "Threshold [mV]" offset 0 font "Arial, 32"
 
 #set key outside

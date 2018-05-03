@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+
+\bibitem{SciTil}
+{A}ustrian {A}cademy of {S}ciences {S}tefan {M}eyer {I}nstitute for~{S}ubatomic
+  {P}hysics.
+\newblock Technical {D}esign {R}eport for the {S}ci{S}il {D}etector for
+  {PANDA}.
+\newblock Under review.
+
+\bibitem{FAIR}
+FAIR.
+\newblock Website.
+\newblock Accessed online: \url{https://fair-center.eu/index.php?id=1}, April,
+  2018.
+
+\bibitem{SiPM_Manual}
+KETEK GmbH.
+\newblock Sipm pm3325-eb/pm3350-eb datasheet.
+\newblock Retrieved online:
+  \url{https://www.ketek.net/documentation/sipm-downloads/}, June, 2017.
+
+\bibitem{chris}
+Christopher Hahn.
+\newblock Measurements on the radiation hardness of the high voltage
+  subdistribution prototype of the electromagnetic calorimeter for the panda
+  experiment.
+\newblock Master's thesis, Justus Liebig University, Mai 2017.
+
+\bibitem{schauer_projekt}
+L.~Nies, W.~Adi, M.~Peter, and P.~Steinbrecher.
+\newblock {\em Kosmische Strahlung: Myonendetektion mit dem Raspberry Pi, under
+  review}.
+\newblock II. Physikalisches Institut, Justus Liebig Universit{\"a}t Giessen,
+  Stand Mai 2016.
+
+\bibitem{Lukas_Thesis}
+Lukas Nies.
+\newblock Development of a sipm-based readout-module for the characterization
+  of various scintillation materials (bachelor's thesis), August 2017.
+
+\bibitem{photonique}
+Photonique SA.
+\newblock Photonique preamplifier.
+\newblock Retrieved online: \url{http://www.photonique.ch/Prod_AMP_0600.html},
+  July, 2017.
+
+\bibitem{sebastian}
+S.~Zimmermann.
+\newblock The panda barrel-tof detector.
+\newblock DPG-Fr{\"u}hjahrstagung, M{\"u}nster. Austrian Academy of Sciences,
+  Stefan Meyer Insitute for Subatomic Physics, 28th of March, 2017.
+
+\end{thebibliography}

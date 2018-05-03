@@ -88,10 +88,10 @@
 \bibitem [{\citenamefont {Nies}(2017)}]{Lukas_Thesis}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
-  {Nies}},\ }\emph {\bibinfo {title} {Development of a SiPM-based
-  readout-module for the characterization of various scintillation
-  materials}},\ \href@noop {} {Master's thesis},\ \bibinfo  {school} {Justus
-  Liebig University} (\bibinfo {year} {August 2017})\BibitemShut {NoStop}%
+  {Nies}},\ }\href@noop {} {\enquote {\bibinfo {title} {Development of a
+  sipm-based readout-module for the characterization of various scintillation
+  materials (bachelor's thesis)},}\ } (\bibinfo {year} {August
+  2017})\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Nies}\ \emph {et~al.}(2016)\citenamefont {Nies},
   \citenamefont {Adi}, \citenamefont {Peter},\ and\ \citenamefont
   {Steinbrecher}}]{schauer_projekt}%

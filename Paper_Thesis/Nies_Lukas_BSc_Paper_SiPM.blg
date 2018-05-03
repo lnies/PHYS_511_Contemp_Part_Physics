@@ -11,6 +11,8 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: Nies_Lukas_BSc_Paper_SiPMNotes.bib
 Database file #2: ./bib.bib
+Warning--entry type for "Lukas_Thesis" isn't style-file defined
+--line 377 of file ./bib.bib
 control{REVTEX41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
 control{apsrev41Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
 Warning--jnrlst (dependency: not reversed) set 1
@@ -26,37 +28,37 @@ Control: production of eprint (0) enabled
 Warning--empty year in SciTil
 You've used 10 entries,
             5847 wiz_defined-function locations,
-            1644 strings with 16003 characters,
-and the built_in function-call counts, 6212 in all, are:
-= -- 420
+            1644 strings with 16023 characters,
+and the built_in function-call counts, 6153 in all, are:
+= -- 412
 > -- 108
 < -- 58
 + -- 47
 - -- 41
-* -- 869
-:= -- 682
-add.period$ -- 12
+* -- 862
+:= -- 677
+add.period$ -- 13
 call.type$ -- 10
-change.case$ -- 37
+change.case$ -- 38
 chr.to.int$ -- 18
 cite$ -- 11
-duplicate$ -- 635
-empty$ -- 412
+duplicate$ -- 628
+empty$ -- 406
 format.name$ -- 54
-if$ -- 1121
+if$ -- 1106
 int.to.chr$ -- 1
 int.to.str$ -- 17
-missing$ -- 77
+missing$ -- 76
 newline$ -- 76
 num.names$ -- 24
-pop$ -- 284
+pop$ -- 282
 preamble$ -- 1
 purify$ -- 39
 quote$ -- 0
-skip$ -- 241
+skip$ -- 238
 stack$ -- 0
-substring$ -- 121
-swap$ -- 527
+substring$ -- 122
+swap$ -- 521
 text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 10
@@ -64,5 +66,5 @@ type$ -- 110
 warning$ -- 2
 while$ -- 25
 width$ -- 0
-write$ -- 113
-(There were 2 warnings)
+write$ -- 111
+(There were 3 warnings)
